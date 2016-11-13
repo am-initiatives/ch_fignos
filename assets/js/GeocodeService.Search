@@ -1,0 +1,66 @@
+/**/_xdc_._hyden1 && _xdc_._hyden1( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue la Rochefoucauld Liancourt",
+               "short_name" : "Rue la Rochefoucauld Liancourt",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Châlons-en-Champagne",
+               "short_name" : "Châlons-en-Champagne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marne",
+               "short_name" : "Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51000",
+               "short_name" : "51000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Rue la Rochefoucauld Liancourt, 51000 Châlons-en-Champagne, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.95777589999999,
+               "lng" : 4.3588627
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95912488029149,
+                  "lng" : 4.360211680291502
+               },
+               "southwest" : {
+                  "lat" : 48.9564269197085,
+                  "lng" : 4.357513719708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhS1ZQIDg60cRR0xUTpYidi0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
